@@ -1,0 +1,4 @@
+res://scenes/player.tscn
+res://scripts/player.gd
+res://scenes/main_scene.tscn
+res://scenes/enemy.tscn
